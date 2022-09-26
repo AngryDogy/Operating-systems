@@ -1,0 +1,379 @@
+[     6.548] (WARNING) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[     6.548] (WARNING) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+[     6.548] (WARNING) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[     6.548] (WARNING) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+[     6.548] (WARNING) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[     6.769] (WARNING) Falling back to old probe method for modesetting
+[     6.772] (WARNING) Falling back to old probe method for fbdev
+[     7.035] (WARNING) NVIDIA(G0): Unable to get display device for DPI computation.
+[    23.762] (WARNING) NVIDIA(G0): Failed to set the display configuration
+[    23.762] (WARNING) NVIDIA(G0):  - Setting a mode on head 0 failed: Insufficient permissions
+[    23.762] (WARNING) NVIDIA(G0):  - Setting a mode on head 1 failed: Insufficient permissions
+[    23.762] (WARNING) NVIDIA(G0):  - Setting a mode on head 2 failed: Insufficient permissions
+[    23.762] (WARNING) NVIDIA(G0):  - Setting a mode on head 3 failed: Insufficient permissions
+[     6.548] (INFORMATION) The server relies on udev to provide the list of input devices.
+[     6.548] (INFORMATION) Loader magic: 0x56313dce6020
+[     6.548] (INFORMATION) Module ABI versions:
+[     6.550] (INFORMATION) systemd-logind: took control of session /org/freedesktop/login1/session/c1
+[     6.550] (INFORMATION) xfree86: Adding drm device (/dev/dri/card1)
+[     6.550] (INFORMATION) Platform probe for /sys/devices/pci0000:00/0000:00:01.1/0000:01:00.0/drm/card1
+[     6.551] (INFORMATION) systemd-logind: got fd for /dev/dri/card1 226:1 fd 14 paused 0
+[     6.551] (INFORMATION) xfree86: Adding drm device (/dev/dri/card0)
+[     6.551] (INFORMATION) Platform probe for /sys/devices/pci0000:00/0000:00:08.1/0000:05:00.0/drm/card0
+[     6.551] (INFORMATION) systemd-logind: got fd for /dev/dri/card0 226:0 fd 15 paused 0
+[     6.555] (INFORMATION) LoadModule: "glx"
+[     6.556] (INFORMATION) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[     6.563] (INFORMATION) Module glx: vendor="X.Org Foundation"
+[     6.563] (INFORMATION) Applying OutputClass "AMDgpu" to /dev/dri/card0
+[     6.563] (INFORMATION) Applying OutputClass "nvidia" to /dev/dri/card1
+[     6.680] (INFORMATION) LoadModule: "amdgpu"
+[     6.680] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/amdgpu_drv.so
+[     6.684] (INFORMATION) Module amdgpu: vendor="X.Org Foundation"
+[     6.684] (INFORMATION) LoadModule: "ati"
+[     6.684] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/ati_drv.so
+[     6.685] (INFORMATION) Module ati: vendor="X.Org Foundation"
+[     6.742] (INFORMATION) LoadModule: "radeon"
+[     6.742] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/radeon_drv.so
+[     6.745] (INFORMATION) Module radeon: vendor="X.Org Foundation"
+[     6.745] (INFORMATION) LoadModule: "nvidia"
+[     6.745] (INFORMATION) Loading /usr/lib/x86_64-linux-gnu/nvidia/xorg/nvidia_drv.so
+[     6.751] (INFORMATION) Module nvidia: vendor="NVIDIA Corporation"
+[     6.752] (INFORMATION) LoadModule: "nouveau"
+[     6.752] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/nouveau_drv.so
+[     6.753] (INFORMATION) Module nouveau: vendor="X.Org Foundation"
+[     6.754] (INFORMATION) LoadModule: "modesetting"
+[     6.754] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[     6.754] (INFORMATION) Module modesetting: vendor="X.Org Foundation"
+[     6.755] (INFORMATION) LoadModule: "fbdev"
+[     6.755] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[     6.755] (INFORMATION) Module fbdev: vendor="X.Org Foundation"
+[     6.755] (INFORMATION) LoadModule: "vesa"
+[     6.755] (INFORMATION) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[     6.756] (INFORMATION) Module vesa: vendor="X.Org Foundation"
+[     6.756] (INFORMATION) AMDGPU: Driver for AMD Radeon:
+[     6.756] (INFORMATION) RADEON: Driver for ATI/AMD Radeon chipsets:
+[     6.760] (INFORMATION) NVIDIA dlloader X Driver  510.73.05  Sat May  7 05:29:47 UTC 2022
+[     6.760] (INFORMATION) NVIDIA Unified Driver for all Supported NVIDIA GPUs
+[     6.761] (INFORMATION) NOUVEAU driver Date:   Sat Jan 23 12:24:42 2021 -0500
+[     6.761] (INFORMATION) NOUVEAU driver for NVIDIA chipset families :
+[     6.766] (INFORMATION) modesetting: Driver for Modesetting Kernel Drivers: kms
+[     6.766] (INFORMATION) FBDEV: driver for framebuffer: fbdev
+[     6.766] (INFORMATION) VESA: driver for VESA chipsets: vesa
+[     6.772] (INFORMATION) Loading sub module "fbdevhw"
+[     6.772] (INFORMATION) LoadModule: "fbdevhw"
+[     6.772] (INFORMATION) Loading /usr/lib/xorg/modules/libfbdevhw.so
+[     6.773] (INFORMATION) Module fbdevhw: vendor="X.Org Foundation"
+[     6.773] (INFORMATION) systemd-logind: releasing fd for 226:1
+[     6.801] (INFORMATION) Loading sub module "fb"
+[     6.801] (INFORMATION) LoadModule: "fb"
+[     6.801] (INFORMATION) Module "fb" already built-in
+[     6.801] (INFORMATION) Loading sub module "wfb"
+[     6.801] (INFORMATION) LoadModule: "wfb"
+[     6.801] (INFORMATION) Loading /usr/lib/xorg/modules/libwfb.so
+[     6.802] (INFORMATION) Module wfb: vendor="X.Org Foundation"
+[     6.802] (INFORMATION) Loading sub module "ramdac"
+[     6.802] (INFORMATION) LoadModule: "ramdac"
+[     6.802] (INFORMATION) Module "ramdac" already built-in
+[     6.804] (INFORMATION) AMDGPU(0): Creating default Display subsection in Screen section
+[     6.804] (INFORMATION) AMDGPU(0): Pixel depth = 24 bits stored in 4 bytes (32 bpp pixmaps)
+[     6.804] (INFORMATION) AMDGPU(0): Using 8 bits per RGB (8 bit DAC)
+[     6.804] (INFORMATION) Loading sub module "fb"
+[     6.804] (INFORMATION) LoadModule: "fb"
+[     6.804] (INFORMATION) Module "fb" already built-in
+[     6.804] (INFORMATION) Loading sub module "dri2"
+[     6.804] (INFORMATION) LoadModule: "dri2"
+[     6.804] (INFORMATION) Module "dri2" already built-in
+[     6.885] (INFORMATION) Loading sub module "glamoregl"
+[     6.885] (INFORMATION) LoadModule: "glamoregl"
+[     6.885] (INFORMATION) Loading /usr/lib/xorg/modules/libglamoregl.so
+[     6.890] (INFORMATION) Module glamoregl: vendor="X.Org Foundation"
+[     6.963] (INFORMATION) AMDGPU(0): glamor X acceleration enabled on AMD RENOIR (LLVM 13.0.1, DRM 3.46, 5.18.10-76051810-generic)
+[     6.963] (INFORMATION) AMDGPU(0): glamor detected, initialising EGL layer.
+[     6.963] (INFORMATION) AMDGPU(0): KMS Pageflipping: enabled
+[     6.965] (INFORMATION) AMDGPU(0): Output eDP has no monitor section
+[     6.974] (INFORMATION) AMDGPU(0): EDID for output eDP
+[     6.974] (INFORMATION) AMDGPU(0): Manufacturer: CMN  Model: 15e7  Serial#: 0
+[     6.974] (INFORMATION) AMDGPU(0): Year: 2016  Week: 33
+[     6.974] (INFORMATION) AMDGPU(0): EDID Version: 1.4
+[     6.974] (INFORMATION) AMDGPU(0): Digital Display Input
+[     6.974] (INFORMATION) AMDGPU(0): 8 bits per channel
+[     6.974] (INFORMATION) AMDGPU(0): Digital interface is DisplayPort
+[     6.974] (INFORMATION) AMDGPU(0): Max Image Size [cm]: horiz.: 34  vert.: 19
+[     6.974] (INFORMATION) AMDGPU(0): Gamma: 2.20
+[     6.974] (INFORMATION) AMDGPU(0): No DPMS capabilities specified
+[     6.974] (INFORMATION) AMDGPU(0): Supported color encodings: RGB 4:4:4 
+[     6.974] (INFORMATION) AMDGPU(0): First detailed timing is preferred mode
+[     6.974] (INFORMATION) AMDGPU(0): Preferred mode is native pixel format and refresh rate
+[     6.974] (INFORMATION) AMDGPU(0): redX: 0.590 redY: 0.350   greenX: 0.330 greenY: 0.555
+[     6.974] (INFORMATION) AMDGPU(0): blueX: 0.153 blueY: 0.119   whiteX: 0.313 whiteY: 0.329
+[     6.974] (INFORMATION) AMDGPU(0): Manufacturer's mask: 0
+[     6.974] (INFORMATION) AMDGPU(0): Supported detailed timing:
+[     6.974] (INFORMATION) AMDGPU(0): clock: 152.8 MHz   Image Size:  344 x 193 mm
+[     6.974] (INFORMATION) AMDGPU(0): h_active: 1920  h_sync: 2000  h_sync_end 2054 h_blank_end 2250 h_border: 0
+[     6.974] (INFORMATION) AMDGPU(0): v_active: 1080  v_sync: 1086  v_sync_end 1094 v_blanking: 1132 v_border: 0
+[     6.974] (INFORMATION) AMDGPU(0):  N156HCA-EAB
+[     6.974] (INFORMATION) AMDGPU(0):  CMN
+[     6.974] (INFORMATION) AMDGPU(0):  N156HCA-EAB
+[     6.974] (INFORMATION) AMDGPU(0): EDID (in hex):
+[     6.974] (INFORMATION) AMDGPU(0): 	00ffffffffffff000daee71500000000
+[     6.974] (INFORMATION) AMDGPU(0): 	211a0104a52213780228659759548e27
+[     6.975] (INFORMATION) AMDGPU(0): 	1e505400000001010101010101010101
+[     6.975] (INFORMATION) AMDGPU(0): 	010101010101b43b804a713834405036
+[     6.975] (INFORMATION) AMDGPU(0): 	680058c110000018000000fe004e3135
+[     6.975] (INFORMATION) AMDGPU(0): 	364843412d4541420a20000000fe0043
+[     6.975] (INFORMATION) AMDGPU(0): 	4d4e0a202020202020202020000000fe
+[     6.975] (INFORMATION) AMDGPU(0): 	004e3135364843412d4541420a2000b2
+[     6.975] (INFORMATION) AMDGPU(0): Printing probed modes for output eDP
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1920x1080"x60.0  152.84  1920 2000 2054 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1680x1050"x60.0  152.84  1680 2000 2054 2250  1050 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1280x1024"x60.0  152.84  1280 2000 2054 2250  1024 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1440x900"x60.0  152.84  1440 2000 2054 2250  900 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1280x800"x60.0  152.84  1280 2000 2054 2250  800 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1280x720"x60.0  152.84  1280 2000 2054 2250  720 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "1024x768"x60.0  152.84  1024 2000 2054 2250  768 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "800x600"x60.0  152.84  800 2000 2054 2250  600 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Modeline "640x480"x60.0  152.84  640 2000 2054 2250  480 1086 1094 1132 -hsync -vsync (67.9 kHz e)
+[     6.975] (INFORMATION) AMDGPU(0): Output eDP connected
+[     6.975] (INFORMATION) AMDGPU(0): Using exact sizes for initial modes
+[     6.975] (INFORMATION) AMDGPU(0): Output eDP using initial mode 1920x1080 +0+0
+[     6.975] (INFORMATION) AMDGPU(0): mem size init: gart size :bf5ef000 vram size: s:1df2d000 visible:1df2d000
+[     6.975] (INFORMATION) Loading sub module "ramdac"
+[     6.975] (INFORMATION) LoadModule: "ramdac"
+[     6.975] (INFORMATION) Module "ramdac" already built-in
+[     6.975] (INFORMATION) Applying OutputClass "nvidia" options to /dev/dri/card1
+[     6.975] (INFORMATION) Loading sub module "glxserver_nvidia"
+[     6.975] (INFORMATION) LoadModule: "glxserver_nvidia"
+[     6.975] (INFORMATION) Loading /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so
+[     7.031] (INFORMATION) Module glxserver_nvidia: vendor="NVIDIA Corporation"
+[     7.031] (INFORMATION) NVIDIA GLX Module  510.73.05  Sat May  7 05:24:37 UTC 2022
+[     7.032] (INFORMATION) NVIDIA: The X server supports PRIME Render Offload.
+[     7.034] (INFORMATION) NVIDIA(G0): NVIDIA GPU NVIDIA GeForce GTX 1650 (TU117-A) at PCI:1:0:0
+[     7.034] (INFORMATION) NVIDIA(G0):     (GPU-0)
+[     7.034] (INFORMATION) NVIDIA(G0): Detected PCI Express Link width: 16X
+[     7.035] (INFORMATION) NVIDIA(G0): Validated MetaModes:
+[     7.035] (INFORMATION) NVIDIA(G0):     "NULL"
+[     7.035] (INFORMATION) NVIDIA(G0): Virtual screen size determined to be 640 x 480
+[     7.035] (INFORMATION) UnloadModule: "radeon"
+[     7.035] (INFORMATION) Unloading radeon
+[     7.035] (INFORMATION) UnloadModule: "nouveau"
+[     7.035] (INFORMATION) Unloading nouveau
+[     7.035] (INFORMATION) UnloadModule: "modesetting"
+[     7.035] (INFORMATION) Unloading modesetting
+[     7.036] (INFORMATION) UnloadModule: "fbdev"
+[     7.036] (INFORMATION) Unloading fbdev
+[     7.036] (INFORMATION) UnloadSubModule: "fbdevhw"
+[     7.036] (INFORMATION) Unloading fbdevhw
+[     7.036] (INFORMATION) UnloadModule: "vesa"
+[     7.036] (INFORMATION) Unloading vesa
+[     7.037] (INFORMATION) AMDGPU(0): [DRI2] Setup complete
+[     7.037] (INFORMATION) AMDGPU(0): [DRI2]   DRI driver: radeonsi
+[     7.037] (INFORMATION) AMDGPU(0): [DRI2]   VDPAU driver: radeonsi
+[     7.111] (INFORMATION) AMDGPU(0): Front buffer pitch: 7680 bytes
+[     7.113] (INFORMATION) AMDGPU(0): SYNC extension fences enabled
+[     7.114] (INFORMATION) AMDGPU(0): Present extension enabled
+[     7.114] (INFORMATION) AMDGPU(0): Direct rendering enabled
+[     7.155] (INFORMATION) AMDGPU(0): Use GLAMOR acceleration.
+[     7.155] (INFORMATION) AMDGPU(0): Acceleration enabled
+[     7.155] (INFORMATION) AMDGPU(0): Set up textured video (glamor)
+[     7.173] (INFORMATION) NVIDIA: Reserving 24576.00 MB of virtual memory for indirect memory
+[     7.173] (INFORMATION) NVIDIA:     access.
+[     7.218] (INFORMATION) NVIDIA(G0): Setting mode "NULL"
+[     7.229] (INFORMATION) Loading sub module "dri2"
+[     7.229] (INFORMATION) LoadModule: "dri2"
+[     7.229] (INFORMATION) Module "dri2" already built-in
+[     7.229] (INFORMATION) NVIDIA(G0): [DRI2] Setup complete
+[     7.229] (INFORMATION) NVIDIA(G0): [DRI2]   VDPAU driver: nvidia
+[     7.229] (INFORMATION) Initializing extension Generic Event Extension
+[     7.229] (INFORMATION) Initializing extension SHAPE
+[     7.229] (INFORMATION) Initializing extension MIT-SHM
+[     7.229] (INFORMATION) Initializing extension XInputExtension
+[     7.230] (INFORMATION) Initializing extension XTEST
+[     7.230] (INFORMATION) Initializing extension BIG-REQUESTS
+[     7.230] (INFORMATION) Initializing extension SYNC
+[     7.230] (INFORMATION) Initializing extension XKEYBOARD
+[     7.230] (INFORMATION) Initializing extension XC-MISC
+[     7.231] (INFORMATION) Initializing extension SECURITY
+[     7.231] (INFORMATION) Initializing extension XFIXES
+[     7.231] (INFORMATION) Initializing extension RENDER
+[     7.231] (INFORMATION) Initializing extension RANDR
+[     7.231] (INFORMATION) Initializing extension COMPOSITE
+[     7.231] (INFORMATION) Initializing extension DAMAGE
+[     7.232] (INFORMATION) Initializing extension MIT-SCREEN-SAVER
+[     7.232] (INFORMATION) Initializing extension DOUBLE-BUFFER
+[     7.232] (INFORMATION) Initializing extension RECORD
+[     7.232] (INFORMATION) Initializing extension DPMS
+[     7.232] (INFORMATION) Initializing extension Present
+[     7.232] (INFORMATION) Initializing extension DRI3
+[     7.232] (INFORMATION) Initializing extension X-Resource
+[     7.232] (INFORMATION) Initializing extension XVideo
+[     7.233] (INFORMATION) Initializing extension XVideo-MotionCompensation
+[     7.233] (INFORMATION) Initializing extension SELinux
+[     7.233] (INFORMATION) SELinux: Disabled on system
+[     7.233] (INFORMATION) Initializing extension GLX
+[     7.233] (INFORMATION) Initializing extension GLX
+[     7.233] (INFORMATION) Indirect GLX disabled.
+[     7.244] (INFORMATION) AIGLX: Loaded and initialized radeonsi
+[     7.244] (INFORMATION) GLX: Initialized DRI2 GL provider for screen 0
+[     7.244] (INFORMATION) Initializing extension XFree86-VidModeExtension
+[     7.244] (INFORMATION) Initializing extension XFree86-DGA
+[     7.244] (INFORMATION) Initializing extension XFree86-DRI
+[     7.244] (INFORMATION) Initializing extension DRI2
+[     7.244] (INFORMATION) Initializing extension NV-GLX
+[     7.244] (INFORMATION) Initializing extension NV-CONTROL
+[     7.245] (INFORMATION) AMDGPU(0): Setting screen physical size to 508 x 285
+[     7.342] (INFORMATION) config/udev: Adding input device Power Button (/dev/input/event2)
+[     7.342] (INFORMATION) LoadModule: "libinput"
+[     7.344] (INFORMATION) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[     7.347] (INFORMATION) Module libinput: vendor="X.Org Foundation"
+[     7.347] (INFORMATION) Using input driver 'libinput' for 'Power Button'
+[     7.347] (INFORMATION) systemd-logind: got fd for /dev/input/event2 13:66 fd 49 paused 0
+[     7.350] (INFORMATION) event2  - Power Button: is tagged by udev as: Keyboard
+[     7.350] (INFORMATION) event2  - Power Button: device is a keyboard
+[     7.350] (INFORMATION) event2  - Power Button: device removed
+[     7.350] (INFORMATION) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[     7.351] (INFORMATION) event2  - Power Button: is tagged by udev as: Keyboard
+[     7.351] (INFORMATION) event2  - Power Button: device is a keyboard
+[     7.352] (INFORMATION) config/udev: Adding input device Video Bus (/dev/input/event4)
+[     7.352] (INFORMATION) Using input driver 'libinput' for 'Video Bus'
+[     7.353] (INFORMATION) systemd-logind: got fd for /dev/input/event4 13:68 fd 52 paused 0
+[     7.354] (INFORMATION) event4  - Video Bus: is tagged by udev as: Keyboard
+[     7.354] (INFORMATION) event4  - Video Bus: device is a keyboard
+[     7.354] (INFORMATION) event4  - Video Bus: device removed
+[     7.354] (INFORMATION) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+[     7.356] (INFORMATION) event4  - Video Bus: is tagged by udev as: Keyboard
+[     7.356] (INFORMATION) event4  - Video Bus: device is a keyboard
+[     7.357] (INFORMATION) config/udev: Adding input device Video Bus (/dev/input/event5)
+[     7.357] (INFORMATION) Using input driver 'libinput' for 'Video Bus'
+[     7.358] (INFORMATION) systemd-logind: got fd for /dev/input/event5 13:69 fd 53 paused 0
+[     7.359] (INFORMATION) event5  - Video Bus: is tagged by udev as: Keyboard
+[     7.359] (INFORMATION) event5  - Video Bus: device is a keyboard
+[     7.359] (INFORMATION) event5  - Video Bus: device removed
+[     7.359] (INFORMATION) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+[     7.360] (INFORMATION) event5  - Video Bus: is tagged by udev as: Keyboard
+[     7.360] (INFORMATION) event5  - Video Bus: device is a keyboard
+[     7.361] (INFORMATION) config/udev: Adding input device Power Button (/dev/input/event1)
+[     7.361] (INFORMATION) Using input driver 'libinput' for 'Power Button'
+[     7.361] (INFORMATION) systemd-logind: got fd for /dev/input/event1 13:65 fd 54 paused 0
+[     7.362] (INFORMATION) event1  - Power Button: is tagged by udev as: Keyboard
+[     7.362] (INFORMATION) event1  - Power Button: device is a keyboard
+[     7.362] (INFORMATION) event1  - Power Button: device removed
+[     7.363] (INFORMATION) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 9)
+[     7.364] (INFORMATION) event1  - Power Button: is tagged by udev as: Keyboard
+[     7.364] (INFORMATION) event1  - Power Button: device is a keyboard
+[     7.364] (INFORMATION) config/udev: Adding input device Lid Switch (/dev/input/event0)
+[     7.364] (INFORMATION) No input driver specified, ignoring this device.
+[     7.365] (INFORMATION) This device may have been added with another device file.
+[     7.365] (INFORMATION) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=3 (/dev/input/event10)
+[     7.365] (INFORMATION) No input driver specified, ignoring this device.
+[     7.365] (INFORMATION) This device may have been added with another device file.
+[     7.366] (INFORMATION) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=7 (/dev/input/event11)
+[     7.366] (INFORMATION) No input driver specified, ignoring this device.
+[     7.366] (INFORMATION) This device may have been added with another device file.
+[     7.366] (INFORMATION) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=8 (/dev/input/event12)
+[     7.366] (INFORMATION) No input driver specified, ignoring this device.
+[     7.366] (INFORMATION) This device may have been added with another device file.
+[     7.367] (INFORMATION) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=9 (/dev/input/event13)
+[     7.367] (INFORMATION) No input driver specified, ignoring this device.
+[     7.367] (INFORMATION) This device may have been added with another device file.
+[     7.368] (INFORMATION) config/udev: Adding input device Integrated Camera: Integrated C (/dev/input/event6)
+[     7.368] (INFORMATION) Using input driver 'libinput' for 'Integrated Camera: Integrated C'
+[     7.369] (INFORMATION) systemd-logind: got fd for /dev/input/event6 13:70 fd 55 paused 0
+[     7.370] (INFORMATION) event6  - Integrated Camera: Integrated C: is tagged by udev as: Keyboard
+[     7.370] (INFORMATION) event6  - Integrated Camera: Integrated C: device is a keyboard
+[     7.370] (INFORMATION) event6  - Integrated Camera: Integrated C: device removed
+[     7.370] (INFORMATION) XINPUT: Adding extended input device "Integrated Camera: Integrated C" (type: KEYBOARD, id 10)
+[     7.372] (INFORMATION) event6  - Integrated Camera: Integrated C: is tagged by udev as: Keyboard
+[     7.372] (INFORMATION) event6  - Integrated Camera: Integrated C: device is a keyboard
+[     7.372] (INFORMATION) config/udev: Adding input device HD-Audio Generic Mic (/dev/input/event14)
+[     7.372] (INFORMATION) No input driver specified, ignoring this device.
+[     7.372] (INFORMATION) This device may have been added with another device file.
+[     7.373] (INFORMATION) config/udev: Adding input device HD-Audio Generic Headphone (/dev/input/event15)
+[     7.373] (INFORMATION) No input driver specified, ignoring this device.
+[     7.373] (INFORMATION) This device may have been added with another device file.
+[     7.373] (INFORMATION) config/udev: Adding input device Ideapad extra buttons (/dev/input/event8)
+[     7.373] (INFORMATION) Using input driver 'libinput' for 'Ideapad extra buttons'
+[     7.374] (INFORMATION) systemd-logind: got fd for /dev/input/event8 13:72 fd 56 paused 0
+[     7.375] (INFORMATION) event8  - Ideapad extra buttons: is tagged by udev as: Keyboard
+[     7.375] (INFORMATION) event8  - Ideapad extra buttons: device is a keyboard
+[     7.375] (INFORMATION) event8  - Ideapad extra buttons: device removed
+[     7.375] (INFORMATION) XINPUT: Adding extended input device "Ideapad extra buttons" (type: KEYBOARD, id 11)
+[     7.376] (INFORMATION) event8  - Ideapad extra buttons: is tagged by udev as: Keyboard
+[     7.376] (INFORMATION) event8  - Ideapad extra buttons: device is a keyboard
+[     7.377] (INFORMATION) config/udev: Adding input device MSFT0001:00 04F3:3140 Mouse (/dev/input/event7)
+[     7.377] (INFORMATION) Using input driver 'libinput' for 'MSFT0001:00 04F3:3140 Mouse'
+[     7.377] (INFORMATION) systemd-logind: got fd for /dev/input/event7 13:71 fd 57 paused 0
+[     7.379] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: is tagged by udev as: Mouse Pointingstick
+[     7.379] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: device is a pointer
+[     7.380] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: device removed
+[     7.380] (INFORMATION) XINPUT: Adding extended input device "MSFT0001:00 04F3:3140 Mouse" (type: MOUSE, id 12)
+[     7.381] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: is tagged by udev as: Mouse Pointingstick
+[     7.382] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: device is a pointer
+[     7.383] (INFORMATION) config/udev: Adding input device MSFT0001:00 04F3:3140 Mouse (/dev/input/mouse0)
+[     7.383] (INFORMATION) No input driver specified, ignoring this device.
+[     7.383] (INFORMATION) This device may have been added with another device file.
+[     7.383] (INFORMATION) config/udev: Adding input device MSFT0001:00 04F3:3140 Touchpad (/dev/input/event9)
+[     7.383] (INFORMATION) Using input driver 'libinput' for 'MSFT0001:00 04F3:3140 Touchpad'
+[     7.384] (INFORMATION) systemd-logind: got fd for /dev/input/event9 13:73 fd 58 paused 0
+[     7.385] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: is tagged by udev as: Touchpad
+[     7.387] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: device is a touchpad
+[     7.387] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: device removed
+[     7.387] (INFORMATION) XINPUT: Adding extended input device "MSFT0001:00 04F3:3140 Touchpad" (type: TOUCHPAD, id 13)
+[     7.390] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: is tagged by udev as: Touchpad
+[     7.391] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: device is a touchpad
+[     7.392] (INFORMATION) config/udev: Adding input device MSFT0001:00 04F3:3140 Touchpad (/dev/input/mouse1)
+[     7.392] (INFORMATION) No input driver specified, ignoring this device.
+[     7.392] (INFORMATION) This device may have been added with another device file.
+[     7.393] (INFORMATION) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event3)
+[     7.393] (INFORMATION) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[     7.393] (INFORMATION) systemd-logind: got fd for /dev/input/event3 13:67 fd 59 paused 0
+[     7.394] (INFORMATION) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     7.394] (INFORMATION) event3  - AT Translated Set 2 keyboard: device is a keyboard
+[     7.395] (INFORMATION) event3  - AT Translated Set 2 keyboard: device removed
+[     7.395] (INFORMATION) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 14)
+[     7.396] (INFORMATION) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[     7.396] (INFORMATION) event3  - AT Translated Set 2 keyboard: device is a keyboard
+[     7.924] (INFORMATION) AMDGPU(0): EDID vendor "CMN", prod id 5607
+[     7.924] (INFORMATION) AMDGPU(0): Printing DDC gathered Modelines:
+[     7.924] (INFORMATION) AMDGPU(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2054 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[     7.926] (INFORMATION) AMDGPU(0): EDID vendor "CMN", prod id 5607
+[     7.926] (INFORMATION) AMDGPU(0): Printing DDC gathered Modelines:
+[     7.926] (INFORMATION) AMDGPU(0): Modeline "1920x1080"x0.0  152.84  1920 2000 2054 2250  1080 1086 1094 1132 -hsync -vsync (67.9 kHz eP)
+[    17.771] (INFORMATION) event2  - Power Button: device removed
+[    17.771] (INFORMATION) event4  - Video Bus: device removed
+[    17.771] (INFORMATION) event5  - Video Bus: device removed
+[    17.772] (INFORMATION) event1  - Power Button: device removed
+[    17.772] (INFORMATION) event6  - Integrated Camera: Integrated C: device removed
+[    17.772] (INFORMATION) event8  - Ideapad extra buttons: device removed
+[    17.772] (INFORMATION) event7  - MSFT0001:00 04F3:3140 Mouse: device removed
+[    17.772] (INFORMATION) event9  - MSFT0001:00 04F3:3140 Touchpad: device removed
+[    17.772] (INFORMATION) event3  - AT Translated Set 2 keyboard: device removed
+[    17.773] (INFORMATION) AIGLX: Suspending AIGLX clients for VT switch
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:66
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:68
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:73
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:67
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:65
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:72
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:70
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:69
+[    17.904] (INFORMATION) systemd-logind: got pause for 13:71
+[    23.456] (INFORMATION) UnloadModule: "libinput"
+[    23.456] (INFORMATION) systemd-logind: releasing fd for 13:67
+[    23.481] (INFORMATION) UnloadModule: "libinput"
+[    23.482] (INFORMATION) systemd-logind: releasing fd for 13:73
+[    23.525] (INFORMATION) UnloadModule: "libinput"
+[    23.525] (INFORMATION) systemd-logind: releasing fd for 13:71
+[    23.553] (INFORMATION) UnloadModule: "libinput"
+[    23.553] (INFORMATION) systemd-logind: releasing fd for 13:72
+[    23.581] (INFORMATION) UnloadModule: "libinput"
+[    23.581] (INFORMATION) systemd-logind: releasing fd for 13:70
+[    23.621] (INFORMATION) UnloadModule: "libinput"
+[    23.621] (INFORMATION) systemd-logind: releasing fd for 13:65
+[    23.645] (INFORMATION) UnloadModule: "libinput"
+[    23.645] (INFORMATION) systemd-logind: releasing fd for 13:69
+[    23.685] (INFORMATION) UnloadModule: "libinput"
+[    23.685] (INFORMATION) systemd-logind: releasing fd for 13:68
+[    23.725] (INFORMATION) UnloadModule: "libinput"
+[    23.725] (INFORMATION) systemd-logind: releasing fd for 13:66
+[    23.770] (INFORMATION) NVIDIA(GPU-0): Deleting GPU-0
+[    23.771] (INFORMATION) Server terminated successfully (0). Closing log file.
