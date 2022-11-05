@@ -35,22 +35,4 @@ while true; do
         sudo renice $newNi -p $pid
         echo "Priority of process $pid was decreased to $newNi"        
     fi
-    #if [[ $(echo "$val >= 50.0" | bc) ]]
-    #then
-     #   max=$(top | head -n 8 | awk {print $1})
-      #  echo $max
-#
-   # fi
-    #sum=0.0
-    #for pid in $(ps -axo pid)
-    #do
-        #echo $sum
-      #  val=$(ps -A --format pid,pcpu | awk '$1=='$pid'{print $2}')
-        #echo $pid $val
-        
-      #  result=$(echo "$sum+$val" | bc -l)
-        #sum=$result
-        #echo $result
-   # done
-    exit
 done

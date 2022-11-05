@@ -1,5 +1,6 @@
 #!/bin/bash
-A=$((0))
+echo $$ > .pid3
+A=0
 while true; do
-A=$(($A+1))
+    let A=$A + 1
 done
