@@ -1,0 +1,161 @@
+top - 17:11:58 up  5:34,  1 user,  load average: 2.03, 1.71, 1.26
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.8 us,  3.4 sy,  2.8 ni, 76.3 id,  1.1 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7313.8 total,   3430.6 free,   3124.0 used,    759.3 buff/cache
+MiB Swap:   5120.0 total,   3402.5 free,   1717.5 used.   3855.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  15  -5   21752   5732   3496 R  93.3   0.1   0:00.14 mem.sh
+
+top - 17:12:18 up  5:34,  1 user,  load average: 2.17, 1.76, 1.29
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.1 us,  1.9 sy,  0.3 ni, 80.4 id,  0.1 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7313.8 total,   2759.3 free,   3794.0 used,    760.6 buff/cache
+MiB Swap:   5120.0 total,   3403.8 free,   1716.2 used.   3185.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  15  -5  364028 347876   3496 R 100.0   4.6   0:20.16 mem.sh
+
+top - 17:12:38 up  5:35,  1 user,  load average: 2.41, 1.84, 1.33
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us,  1.6 sy, 13.7 ni, 81.4 id,  0.1 wa,  0.0 hi,  0.1 si,  0.0 st
+MiB Mem :   7313.8 total,   1934.7 free,   4617.7 used,    761.4 buff/cache
+MiB Swap:   5120.0 total,   3404.0 free,   1716.0 used.   2361.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5  785504 769484   3496 R 100.0  10.3   0:40.17 mem.sh
+
+top - 17:12:58 up  5:35,  1 user,  load average: 2.50, 1.90, 1.36
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  1.4 sy, 16.1 ni, 81.9 id,  0.1 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :   7313.8 total,   1100.6 free,   5450.9 used,    762.4 buff/cache
+MiB Swap:   5120.0 total,   3404.0 free,   1716.0 used.   1528.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 1210148   1.1g   3496 R 100.0  15.9   1:00.27 mem.sh
+
+top - 17:13:18 up  5:35,  1 user,  load average: 2.55, 1.95, 1.39
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  1.4 sy, 16.1 ni, 81.7 id,  0.1 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7313.8 total,    266.8 free,   6284.5 used,    762.5 buff/cache
+MiB Swap:   5120.0 total,   3404.3 free,   1715.7 used.    694.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 1633604   1.5g   3496 R 100.0  21.6   1:20.36 mem.sh
+
+top - 17:13:38 up  5:36,  1 user,  load average: 2.67, 2.02, 1.42
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  1.8 sy, 16.8 ni, 80.4 id,  0.2 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :   7313.8 total,    124.5 free,   6762.4 used,    426.9 buff/cache
+MiB Swap:   5120.0 total,   3450.5 free,   1669.5 used.    236.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 2054288   1.9g   2684 R 100.0  27.2   1:40.37 mem.sh
+
+top - 17:13:58 up  5:36,  1 user,  load average: 2.69, 2.07, 1.45
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  2.9 sy, 15.8 ni, 79.4 id,  1.1 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :   7313.8 total,    140.2 free,   6901.9 used,    271.7 buff/cache
+MiB Swap:   5120.0 total,   2803.9 free,   2316.1 used.    120.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 2475764   2.2g   1988 R 100.0  30.3   2:00.47 mem.sh
+
+top - 17:14:18 up  5:36,  1 user,  load average: 2.63, 2.10, 1.48
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  2.3 sy, 16.0 ni, 80.1 id,  0.9 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :   7313.8 total,    131.6 free,   6939.2 used,    243.0 buff/cache
+MiB Swap:   5120.0 total,   1956.4 free,   3163.6 used.    101.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 2896844   2.2g   1988 R 100.0  30.4   2:20.57 mem.sh
+
+top - 17:14:39 up  5:37,  1 user,  load average: 2.52, 2.11, 1.49
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  2.2 sy, 15.9 ni, 80.2 id,  0.9 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :   7313.8 total,    122.1 free,   6932.0 used,    259.7 buff/cache
+MiB Swap:   5120.0 total,   1366.3 free,   3753.7 used.     99.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 3317264   2.3g   1988 R 100.0  31.8   2:40.59 mem.sh
+
+top - 17:14:59 up  5:37,  1 user,  load average: 2.97, 2.24, 1.55
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  2.0 sy,  9.4 ni, 77.2 id, 11.0 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7313.8 total,   2291.4 free,   4698.4 used,    324.0 buff/cache
+MiB Swap:   5120.0 total,   1784.4 free,   3335.6 used.   2313.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 3599348   2.1g   2208 R  85.8  29.5   2:57.84 mem.sh
+
+top - 17:15:19 up  5:37,  1 user,  load average: 2.41, 2.16, 1.54
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.8 sy,  8.0 ni, 90.8 id,  0.1 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7313.8 total,   1833.0 free,   5127.7 used,    353.1 buff/cache
+MiB Swap:   5120.0 total,   1784.9 free,   3335.1 used.   1883.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 4022408   2.5g   2208 R 100.0  35.1   3:17.84 mem.sh
+
+top - 17:15:39 up  5:38,  1 user,  load average: 2.09, 2.10, 1.53
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.8 sy,  8.1 ni, 90.6 id,  0.2 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7313.8 total,   1277.6 free,   5582.6 used,    453.6 buff/cache
+MiB Swap:   5120.0 total,   1786.7 free,   3333.3 used.   1427.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 4446524   2.9g   2208 R 100.0  40.8   3:37.94 mem.sh
+
+top - 17:15:59 up  5:38,  1 user,  load average: 1.78, 2.03, 1.52
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.8 sy,  8.1 ni, 90.6 id,  0.1 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7313.8 total,    845.0 free,   6006.0 used,    462.8 buff/cache
+MiB Swap:   5120.0 total,   1789.9 free,   3330.1 used.   1005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 4870244   3.3g   2208 R 100.0  46.4   3:58.01 mem.sh
+
+top - 17:16:19 up  5:38,  1 user,  load average: 1.56, 1.96, 1.51
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  0.9 sy,  8.1 ni, 90.3 id,  0.3 wa,  0.0 hi,  0.3 si,  0.0 st
+MiB Mem :   7313.8 total,    408.1 free,   6430.0 used,    475.7 buff/cache
+MiB Swap:   5120.0 total,   1790.7 free,   3329.3 used.    581.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 5293832   3.7g   2208 R 100.0  52.1   4:18.06 mem.sh
+
+top - 17:16:39 up  5:39,  1 user,  load average: 1.47, 1.92, 1.50
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.7 us,  1.4 sy,  7.2 ni, 88.5 id,  0.8 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7313.8 total,    155.5 free,   6750.2 used,    408.1 buff/cache
+MiB Swap:   5120.0 total,   1512.3 free,   3607.7 used.    263.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 5716628   3.8g   1988 R 100.0  53.0   4:38.16 mem.sh
+
+top - 17:16:59 up  5:39,  1 user,  load average: 1.58, 1.91, 1.51
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  1.5 sy,  8.3 ni, 89.4 id,  0.3 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7313.8 total,    133.9 free,   6910.5 used,    269.4 buff/cache
+MiB Swap:   5120.0 total,   1230.3 free,   3889.7 used.    117.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 6136652   3.9g   1988 R  99.9  55.2   4:58.16 mem.sh
+
+top - 17:17:19 up  5:39,  1 user,  load average: 1.41, 1.85, 1.50
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  1.8 sy,  8.2 ni, 88.9 id,  0.7 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :   7313.8 total,    131.3 free,   6918.7 used,    263.8 buff/cache
+MiB Swap:   5120.0 total,    869.6 free,   4250.4 used.    112.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 6559316   4.0g   1988 R 100.0  56.4   5:18.27 mem.sh
+
+top - 17:17:39 up  5:40,  1 user,  load average: 1.29, 1.79, 1.49
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.1 us,  2.0 sy,  8.2 ni, 88.4 id,  0.8 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :   7313.8 total,    138.1 free,   6865.3 used,    310.3 buff/cache
+MiB Swap:   5120.0 total,    538.7 free,   4581.3 used.    155.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24966 angrydog  25   5 6980792   4.2g   1976 R 100.0  58.2   5:38.29 mem.sh

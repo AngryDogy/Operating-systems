@@ -1,0 +1,7 @@
+ver > ver.txt
+diskpart /s script.txt > diskpart.txt
+mkdir Test
+cd Test
+copy c:\Lab6 c:\Lab6\Test 
+type *.txt > content.txt  
+del . /p     

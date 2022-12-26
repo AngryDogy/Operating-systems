@@ -1,0 +1,2 @@
+driverquery > drivers.txt
+driverquery | sort /r

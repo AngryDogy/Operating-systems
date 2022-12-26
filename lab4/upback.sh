@@ -20,7 +20,6 @@ cd $currentDir
 for file in $(ls *.****-**-**)
 do
     editedFiles+=($file)
-    echo $file
 done
 for file in $(ls)
 do

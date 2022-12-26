@@ -1,0 +1,10 @@
+Comparing files C:\LAB6\3\services.txt and C:\LAB6\3\SERVICES2.TXT
+***** C:\LAB6\3\services.txt
+   Security Center
+   Server
+   Shell Hardware Detection
+***** C:\LAB6\3\SERVICES2.TXT
+   Security Center
+   Shell Hardware Detection
+*****
+

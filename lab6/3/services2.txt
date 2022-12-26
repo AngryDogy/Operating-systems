@@ -1,0 +1,113 @@
+These Windows services are started:
+
+   AarSvc_36b7f
+   AMD Crash Defender Service
+   AMD External Events Utility
+   AMD User Experience Program Data Uploader
+   Application Information
+   AVCTP service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Bluetooth Audio Gateway Service
+   Bluetooth Support Service
+   Capability Access Manager Service
+   cbdhsvc_36b7f
+   CDPUserSvc_36b7f
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Sharing Service
+   Data Usage
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Enhancement Service
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Dolby DAX API Service
+   Fortemedia APO Control Service
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Geolocation Service
+   Human Interface Device Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Network Inspection Service
+   Microsoft Defender Antivirus Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Microsoft Store Install Service
+   Network Connected Devices Auto-Setup
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NVIDIA Display Container LS
+   NVIDIA LocalSystem Container
+   OneSyncSvc_36b7f
+   Payments and NFC/SE Manager
+   Phone Service
+   PimIndexMaintenanceSvc_36b7f
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Quality Windows Audio Video Experience
+   Radio Management Service
+   Realtek Audio Universal Service
+   Realtek Bluetooth Device Manager Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   UnistoreSvc_36b7f
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   UserDataSvc_36b7f
+   Virtual Disk
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Biometric Service
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Search
+   Windows Security Service
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   WpnUserService_36b7f
+
+The command completed successfully.
+

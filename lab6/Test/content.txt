@@ -1,0 +1,22 @@
+
+Microsoft DiskPart version 10.0.19041.964
+
+Copyright (C) Microsoft Corporation.
+On computer: DESKTOP-0D2QFK1
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online          476 GB      0 B         
+
+Disk 0 is now the selected disk.
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    Primary           1000 MB  1024 KB
+  Partition 2    Primary            361 GB  1001 MB
+  Partition 3    Primary            514 MB   362 GB
+  Partition 4    Primary            113 GB   363 GB
+list disk
+select disk 0
+list partition
+Microsoft Windows [Version 10.0.19044.2130]
